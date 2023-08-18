@@ -3,7 +3,14 @@
 
 How to run this project:
 1. Clone this repository
+   ```
+   git clone https://github.com/YZ02/Simple-Object-Detection-App
+   ```
+
 2. Run the main.py
+   ```
+   python main.py
+   ```
 
 
 -------------------------
